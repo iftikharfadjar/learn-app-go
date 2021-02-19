@@ -2,3 +2,5 @@ github.com/iftikharfadjar/learngo v1.0.0 h1:mU0gsvLkxrXDo3KhdB2YtgRQBOC9PTYWrv8a
 github.com/iftikharfadjar/learngo v1.0.0/go.mod h1:MoAXPvudfKwfCym7zj0SeLyfrpwzXemIHTVVrILPQ9E=
 github.com/iftikharfadjar/learngo v1.0.2 h1:0qMDnkfSXwB293wSXduFBc5QXR5wHd0ZyJ+oTUCXbCs=
 github.com/iftikharfadjar/learngo v1.0.2/go.mod h1:MoAXPvudfKwfCym7zj0SeLyfrpwzXemIHTVVrILPQ9E=
+github.com/iftikharfadjar/learngo/v2 v2.0.0 h1:95S+267YHap2/GAVXuQxLgjxSgXK2K6SLqZFUFTl4ns=
+github.com/iftikharfadjar/learngo/v2 v2.0.0/go.mod h1:BaYYhvtaokJVVLuSupxcfqIXBG/O7RHn3NyZXPHefX0=
